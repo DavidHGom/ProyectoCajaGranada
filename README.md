@@ -1,0 +1,8 @@
+# ProyectoCajaGranada
+El proyecto Caja Granada fue un problema que se nos planteó en una asignatura de la carrera, el cual consistía en crear una aplicación que diera una mayor accesibilidad a personas con otros idiomas o falta se visibilidad para las visitas del museo de Caja Granada. El único material con el que contábamos eran vídeos con audios y subtítulos a parte.
+
+El proyecto está formado por una aplicación móvil y una plataforma web. La aplicación móvil está destinada a los usuarios que visitaban el museo, tenían que descargársela y conn ella podrían ver el contenido que había relacionado con las distintas exposiciones que el museo tenga. La forma de leer las descripciones de los elementos expuertos en el museo eran con lectores QR y mediante la introducción de códigos. También tenían la posibilidad de poder realizar una visita guiada (la aplicación tiene rutas ya guardadas) y ver las distintas las distintas salas que formaban el museo. Además se añadió la posibilidad de crear una ruta y poder compartirla con los futuros visitantes del museo que tuvieran la aplicación, para así poder ayudar a profesores en visitas guiadas con sus alumnos.
+
+En lo que accesibilidad se refiere, la aplicación era capaz de gestionar el idioma del contenido y la posiblidad de seleccionar entre textos, vídeos y poner subtítulos a los vídeos.
+
+La plataforma web es la encargada de gestionar el contenido que habría en la aplicación, además de gestionar el contenido que habrá en el museo y recorridos sugeridos por el museo. Los únicos usuarios que pueden trabajar en ella tenían que estar registrados previamente. También puede gestionar las peticiones de asistencia que eran realizados por los visitantes al museo.
